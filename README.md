@@ -1,2 +1,0 @@
-# DbCourse
-Database AI Course
