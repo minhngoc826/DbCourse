@@ -1,0 +1,2 @@
+# DbCourse
+Database AI Course
